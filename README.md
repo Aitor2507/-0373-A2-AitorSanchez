@@ -17,7 +17,7 @@
     |Nombre | Enlace a documentación |
     |-----------|--------------------------------|    
     |HTML| [Documentacion HTML](https://lenguajehtml.com/ ) |
-    |CSS | [Documentacion CSS]https://lenguajecss.com) |
+    |CSS | [Documentacion CSS](https://lenguajecss.com) |
     |JavaScript(JS)| [Documentacion JS](https://devdocs.io/javascript) |
 
 ## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
@@ -37,7 +37,7 @@
           </body>
           </html>
         ```
-        *Figura 1: Estructura de código HTML*
+     *Figura 1: Estructura de código HTML*
 
 ## 5. ¿Qué es CSS?
 
@@ -47,5 +47,5 @@
 
      Mediante unos DNS para poner la pag en la web. Luego se pone en conjunto con PHP(backend); HTML, CSS,JS(frontend) todos estos se utilizan para estructurar,diseñar,funciones complejas y dinámicas.
 
-  ![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
-    *Figura 2: Esquema de peticiones HTML*
+   ![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
+  *Figura 2: Esquema de peticiones HTML*
