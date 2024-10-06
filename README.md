@@ -14,17 +14,17 @@
 
 ### 3.1 ¿Cuántos lenguajes de marcas conoces?. Enuméralos
   
-    |Nombre | Enlace a documentación |
-    |-----------|--------------------------------|    
-    |HTML| [Documentacion HTML](https://lenguajehtml.com/ ) |
-    |CSS | [Documentacion CSS](https://lenguajecss.com) |
-    |JavaScript(JS)| [Documentacion JS](https://devdocs.io/javascript) |
+|Nombre | Enlace a documentación |
+|-----------|--------------------------------|    
+|HTML| [Documentacion HTML](https://lenguajehtml.com/ ) |
+|CSS | [Documentacion CSS](https://lenguajecss.com) |
+|JavaScript(JS)| [Documentacion JS](https://devdocs.io/javascript) |
 
 ## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
     Lenguaje utilizado para la estructura de un documento para que se pueda desplegar su contenido como una página web. La estructura es de la siguiente manera.
 
-        ```
+        ''' 
           <!DOCTYPE html>
           <html lang="en">
           <head>
@@ -48,4 +48,4 @@
      Mediante unos DNS para poner la pag en la web. Luego se pone en conjunto con PHP(backend); HTML, CSS,JS(frontend) todos estos se utilizan para estructurar,diseñar,funciones complejas y dinámicas.
 
    ![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
-  *Figura 2: Esquema de peticiones HTML*
+*Figura 2: Esquema de peticiones HTML*
