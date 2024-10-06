@@ -17,7 +17,7 @@
     |Nombre | Enlace a documentación |
     |-----------|--------------------------------|    
     |HTML| https://lenguajehtml.com |
-    |CSS| | https://lenguajecss.com |
+    |CSS | https://lenguajecss.com |
     |JavaScript(JS)| https://devdocs.io/javascript |
 
 ## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
