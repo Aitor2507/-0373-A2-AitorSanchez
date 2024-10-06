@@ -16,28 +16,28 @@
   
     |Nombre | Enlace a documentación |
     |-----------|--------------------------------|    
-    |HTML| https://lenguajehtml.com |
-    |CSS | https://lenguajecss.com |
-    |JavaScript(JS)| https://devdocs.io/javascript |
+    |HTML| [Documentacion HTML](https://lenguajehtml.com/ ) |
+    |CSS | [Documentacion CSS]https://lenguajecss.com) |
+    |JavaScript(JS)| [Documentacion JS](https://devdocs.io/javascript) |
 
 ## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
     Lenguaje utilizado para la estructura de un documento para que se pueda desplegar su contenido como una página web. La estructura es de la siguiente manera.
 
-    ```
-   <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    </head>
-    <body>
+        ```
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+          </head>
+          <body>
     
-    </body>
-    </html>
-    ```
- *Figura 1: Estructura de código HTML*
+          </body>
+          </html>
+        ```
+        *Figura 1: Estructura de código HTML*
 
 ## 5. ¿Qué es CSS?
 
@@ -47,5 +47,5 @@
 
      Mediante unos DNS para poner la pag en la web. Luego se pone en conjunto con PHP(backend); HTML, CSS,JS(frontend) todos estos se utilizan para estructurar,diseñar,funciones complejas y dinámicas.
 
-![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
-*Figura 2: Esquema de peticiones HTML*
+  ![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
+    *Figura 2: Esquema de peticiones HTML*
