@@ -15,10 +15,10 @@
 ### 3.1 ¿Cuántos lenguajes de marcas conoces?. Enuméralos
   
     |Nombre | Enlace a documentación |
-    |-----------|----------------------------------------------------------------|    
-    |HTML| https://lenguajehtml.com/ |
-    |CSS| | https://lenguajecss.com/ |
-    |JavaScript(JS)|https://devdocs.io/javascript/ |
+    |-----------|--------------------------------|    
+    |HTML| https://lenguajehtml.com |
+    |CSS| | https://lenguajecss.com |
+    |JavaScript(JS)| https://devdocs.io/javascript |
 
 ## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
@@ -46,3 +46,6 @@
 ## 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
 
      Mediante unos DNS para poner la pag en la web. Luego se pone en conjunto con PHP(backend); HTML, CSS,JS(frontend) todos estos se utilizan para estructurar,diseñar,funciones complejas y dinámicas.
+
+![Navegador web](https://github.com/Aitor2507/0373-A2-AitorSanchez/blob/main/imagen_web.png "Imagen de servidor web")
+*Figura 2: Esquema de peticiones HTML*
