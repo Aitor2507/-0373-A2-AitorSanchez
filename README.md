@@ -13,9 +13,9 @@
     Un tipo de lenguaje de programación para hacer una pagina web.
 
 ### 3.1 ¿Cuántos lenguajes de marcas conoces?. Enuméralos
-
-    |Lenguajes de marcas | Nombre|
-    |-----------|---------|    
-    |1.HTML|
-    |2.|CSS|
-    |3.|JavaScript(JS)|
+  
+    |Nombre | Enlace a documentación|
+    |-----------|----------------------------------------------------------------|    
+    |HTML| [Documentacion HTML](https://lenguajehtml.com/ "Tit opcional") |
+    |CSS| | [Documentacion CSS](https://lenguajehtml.com/ "Tit opcional") |
+    |JavaScript(JS)| [Documentacion JS](https://lenguajehtml.com/ "Tit opcional") |
